@@ -1,4 +1,39 @@
-@import url('http://fonts.cdnfonts.com/css/louis-george-cafe');
+@font-face {
+    font-family: 'Louis George Café';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Louis George Café'), url('https://fonts.cdnfonts.com/s/16355/Louis George Cafe.woff') format('woff');
+}
+@font-face {
+    font-family: 'Louis George Café';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Louis George Café'), url('https://fonts.cdnfonts.com/s/16355/Louis George Cafe Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Louis George Café';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Louis George Café'), url('https://fonts.cdnfonts.com/s/16355/Louis George Cafe Bold.woff') format('woff');
+}
+@font-face {
+    font-family: 'Louis George Café';
+    font-style: italic;
+    font-weight: 700;
+    src: local('Louis George Café'), url('https://fonts.cdnfonts.com/s/16355/Louis George Cafe Bold Italic.woff') format('woff');
+}
+@font-face {
+    font-family: 'Louis George Café Light';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Louis George Café Light'), url('https://fonts.cdnfonts.com/s/16355/Louis George Cafe Light.woff') format('woff');
+}
+@font-face {
+    font-family: 'Louis George Café Light';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Louis George Café Light'), url('https://fonts.cdnfonts.com/s/16355/Louis George Cafe Light Italic.woff') format('woff');
+}
 *
 {
     margin: 0;
